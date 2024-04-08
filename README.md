@@ -8,7 +8,8 @@ For that, the entire task has been divided into  3 parts:
 
 * Data Analysis:
   8 questions were there to resolve:
-   Markup  :  1.List the employee number, last name, first name, sex, and salary of each employee.
+
+  Markup : 1.List the employee number, last name, first name, sex, and salary of each employee.
                To resolve this query, Join operation is performed in employees and salaries table.
 
    Markup : 2.List the first name, last name, and hire date for the employees who were hired in 1986.
